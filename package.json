@@ -1,7 +1,7 @@
 {
   "name": "misapis",
   "version": "1.0.0",
-  "description": "",
+  "description": "Proyecto de práctica para aprender:\r - Organización de proyectos en Node.js\r - Uso de rutas\r - Manejo de Git y GitHub",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -14,6 +14,18 @@
     "colors": "^1.4.0",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mongoose": "^9.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dontadeo2/Repo_tadeoBallesteros_6A.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dontadeo2/Repo_tadeoBallesteros_6A/issues"
+  },
+  "homepage": "https://github.com/dontadeo2/Repo_tadeoBallesteros_6A#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
